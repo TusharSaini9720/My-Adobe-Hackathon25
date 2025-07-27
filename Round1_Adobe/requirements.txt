@@ -1,0 +1,7 @@
+PyMuPDF==1.22.5
+scikit-learn
+numpy
+
+
+
+
